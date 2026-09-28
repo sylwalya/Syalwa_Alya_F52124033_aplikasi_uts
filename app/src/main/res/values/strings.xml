@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CHANEL Paris</string>
+    <string name="brand_name">CHANEL</string>
+    <string name="header_subtitle">HAUTE COUTURE &amp; BEAUTÉ</string>
+    <string name="search_hint">Cari produk Chanel&#8230;</string>
+    <string name="cat_all">Semua</string>
+    <string name="cat_perfume">Parfum</string>
+    <string name="cat_makeup">Makeup</string>
+    <string name="cat_handbag">Tas</string>
+    <string name="cat_watch">Jam &amp; Perhiasan</string>
+    <string name="cat_skincare">Skincare</string>
+    <string name="empty_results">Tidak ada produk Chanel yang ditemukan</string>
+    <string name="heading_description">Deskripsi Produk</string>
+    <string name="btn_add_cart">TAMBAH KE KERANJANG</string>
+    <string name="btn_buy_now">BELI SEKARANG</string>
+
+    <string name="cd_product_img">Gambar Produk Chanel</string>
+    <string name="cd_favorite">Tombol Favorit</string>
+    <string name="cd_rating_star">Bintang Rating</string>
+    <string name="cd_chanel_logo">Logo Chanel</string>
+</resources>

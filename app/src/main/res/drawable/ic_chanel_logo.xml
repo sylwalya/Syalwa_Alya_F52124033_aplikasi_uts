@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Double C interlocking logo design -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M35,25 C18,25 10,38 10,50 C10,62 18,75 35,75 C45,75 52,70 56,62 L48,56 C45,61 40,64 35,64 C24,64 20,56 20,50 C20,44 24,36 35,36 C40,36 45,39 48,44 L56,38 C52,30 45,25 35,25 Z"/>
+    <path
+        android:fillColor="#111111"
+        android:pathData="M65,25 C55,25 48,30 44,38 L52,44 C55,39 60,36 65,36 C76,36 80,44 80,50 C80,56 76,64 65,64 C60,64 55,61 52,56 L44,62 C48,70 55,75 65,75 C82,75 90,62 90,50 C90,38 82,25 65,25 Z"/>
+</vector>
